@@ -12,3 +12,4 @@ Módulo 1:
 
 Módulo 2:
 - Pré-processamento de Dados: variáveis contínuas e discretas; conjunto de dados Palmer Penguins; codificação de dados categóricos; dados faltantes (missing data) e normalização desses dados (deleção e imputação); deteccção de anomais; e normalização de dados.
+- Análise Exploratória de Dados
